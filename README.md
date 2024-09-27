@@ -3,11 +3,12 @@
 -->
 
 ## Education
-• Gymnasium “Jovan Jovanović Zmaj” - Gifted students’ class for computers and informatics, Novi Sad
+• Master Academic Studies - Electrical and Computer Engineering, Faculty of Technical Science, University of Novi Sad
 
 • Undergraduate Academic Studies - Software Engineering and Information Technologies, Faculty of Technical Science, University of Novi Sad
 
-• Master Academic Studies - Electrical and Computer Engineering, Faculty of Technical Science, University of Novi Sad
+• Gymnasium “Jovan Jovanović Zmaj” - Gifted students’ class for computers and informatics, Novi Sad
+
 
 ## Skills
 • Advanced: Java (Spring Boot), Angula, Android SDK, Python, CSharp (.NET), HTML, CSS, SQL, GitHub, Junit, TestNG, Selenium, Figma
