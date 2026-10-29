@@ -3,13 +3,14 @@
 -->
 
 ## Education
-• MSc, Electrical and Computer Engineering	Oct 2024 – Oct 2026
+
+**MSc, Electrical and Computer Engineering** — *Oct 2024 – Oct 2026*  
 Faculty of Technical Sciences, University of Novi Sad
 
-• BSc, Software Engineering and Information Technologies	Oct 2020 – Sep 2024
+**BSc, Software Engineering and Information Technologies** — *Sep 2020 – Sep 2024*  
 Faculty of Technical Sciences, University of Novi Sad
 
-• Gymnasium “Jovan Jovanović Zmaj”	Sep 2016 – Jul 2020
+**Gymnasium “Jovan Jovanović Zmaj”** — *Sep 2016 – Jul 2020*  
 Gifted Students Program in Computers and Informatics, Novi Sad
 
 
