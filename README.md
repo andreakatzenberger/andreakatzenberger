@@ -3,14 +3,20 @@
 -->
 
 ## Education
-• Master Academic Studies - Electrical and Computer Engineering, Faculty of Technical Science, University of Novi Sad
+• MSc, Electrical and Computer Engineering	Oct 2024 – Oct 2026
+Faculty of Technical Sciences, University of Novi Sad
 
-• Undergraduate Academic Studies - Software Engineering and Information Technologies, Faculty of Technical Science, University of Novi Sad
+• BSc, Software Engineering and Information Technologies	Oct 2020 – Sep 2024
+Faculty of Technical Sciences, University of Novi Sad
 
-• Gymnasium “Jovan Jovanović Zmaj” - Gifted students’ class for computers and informatics, Novi Sad
+• Gymnasium “Jovan Jovanović Zmaj”	Sep 2016 – Jul 2020
+Gifted Students Program in Computers and Informatics, Novi Sad
 
 
 ## Skills
-• Advanced: Java (Spring Boot), Angula, Android SDK, Python, CSharp (.NET), HTML, CSS, SQL, GitHub, Junit, TestNG, Selenium, Figma
+• Programming	Java (Spring Boot, Spring Security), Python (FastAPI, scikit-learn), JavaScript (React), TypeScript (Angular), C#, .NET, Android (Android SDK), SQL (PostgreSQL, MySQL)
 
-• Intermediate: C, C++, GoLang, AWS
+• Technical	REST API, Microservices, Git, GitHub, Amazon Web Services (AWS), Application Security, Software Testing, Figma
+
+• AI & ML	AI-Assisted Development (Claude Code), Prompt Engineering, Machine Learning
+
